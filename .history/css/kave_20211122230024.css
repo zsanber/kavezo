@@ -1,0 +1,27 @@
+.banner {
+    height:400px;
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+body {
+    background-color: #fbefdb;
+    color: #1f5b25;
+
+}
+
+h1 {
+    font-family: 'Fredericka the Great', cursive;
+}
+
+li {
+    list-style: none;
+}
+
+li img {
+    height:1.5rem;
+}
+
+.card-title{
+    color: #1f5b25;

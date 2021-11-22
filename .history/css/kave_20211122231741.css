@@ -1,0 +1,42 @@
+.banner {
+    height:400px;
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+body {
+    background-color: #fbefdb;
+    color: #1f5b25;
+
+}
+
+h1 {
+    font-family: 'Fredericka the Great', cursive;
+}
+
+li {
+    list-style: none;
+}
+
+li img {
+    height:1.5rem;
+}
+
+h5 a{
+    color: #1f5b25;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+h5 a:hover{
+    color: #2e8d37;
+}
+
+
+.card:hover {
+    color: #2e8d37;
+    border: 2px #1f5b25 solid;
+    border-radius: 3px;
+    border-gra
+}

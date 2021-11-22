@@ -1,0 +1,31 @@
+body {
+    background-image: url(../img/homebg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vw;
+    background-position: center center;
+}
+
+
+@media screen and (min-width:600px) {
+    .into {
+        background-color: rgb(0, 0, 0, 0.5);
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border-radius: 10%;
+    }
+}
+
+
+@media screen and (max-width:599px) {
+    .into {
+        background-color: rgb(0, 0, 0, 0.5);
+        position:fixed;
+        top:50px;
+        left:10px;
+        border-radius:10%;
+       
+    }
+}

@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/homebg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vw;
+    background-position: center center;
+}
+
+.into{
+    background-color: rgb(0,0,0,0.5);
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate (-50%,-50%)
+    //-
+}
