@@ -39,3 +39,8 @@ h5 a:hover{
     border: 2px #1f5b25 solid;
     border-radius: 3px;
 }
+
+#luckyBlog {
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
